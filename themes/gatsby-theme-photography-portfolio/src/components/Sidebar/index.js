@@ -6,7 +6,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import { useSiteMetadata } from "../../utils/hooks"
 import { Categories, Content, Subtitle, Title, Wrapper } from "./styles"
-import Modal from "../Modal.js";
+import Modal from "../modal.js";
 
 const linkStyle = {
   textDecoration: "none",
