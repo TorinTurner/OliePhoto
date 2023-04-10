@@ -1,11 +1,9 @@
-OK BRUH... 
+A versatile photography portfolio built with Gatsby
 
-if you want to clone this
+If you want to deploy this locally:
 
-Download,
+cd blah
+npm install
+npm run start
 
-CD in
-
-NPM i
-
-npm run build/start
+If you want to change/add pages/tabs add folders and images within them in the root images/ folder.
