@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Olie Turner Photography`,
+    title: `Olie Turner III Photography`,
     description: `Photography Portfolio for Olie Turner. Based out of Hawaii.`,
     author: `Torin Turner <fart@8squaredplus5.com>`,
     siteUrl: `https://8squaredplus5.com`,
