@@ -29,7 +29,7 @@ const Sidebar = ({ categories }) => {
         <nav>
           <Categories>
             <Link to="#" style={linkStyle} onClick={() => setModalIsOpen(true)}>
-              <li>About Me!</li>
+              <li>About Me</li>
             </Link>
             {categories.map(({ node: { name } }) => {
               if (name === "Main") return null
